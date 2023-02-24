@@ -27,4 +27,3 @@ sum = sum + num;
 printf ("sum of numbers: %i \n", sum);
 
 }
-
